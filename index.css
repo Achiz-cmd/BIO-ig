@@ -32,7 +32,7 @@ header > h1 {
     font-weight: bold;
     border-radius: 1em;
     background-color: #000a;
-    color: #fff;
+    color: #ffff;
     padding: 0.3em 0.6em;
     border: 1px solid #fffa;
     backdrop-filter: blur(10px) saturate(160%) contrast(180%);
