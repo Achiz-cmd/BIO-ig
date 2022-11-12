@@ -1,12 +1,13 @@
 * {
     background: #e9b6b3;
+    font-family: 'Mali', cursive;
 }
 
 header {
     font-family: 'Mali', cursive;
     background: #e9b6b3;
     text-align: center;
-    width: 300px;
+    width: 400px;
     margin: auto;
 }
 
@@ -43,4 +44,12 @@ h1 {
 
 .pic2-grid img {
     width: 400px;
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+
+section {
+    width: 400px;
+    text-align: center;
+    margin: auto;
 }
