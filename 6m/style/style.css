@@ -36,14 +36,11 @@ h1 {
     margin-bottom: 19px;
 }
 
-.pic2-grid img {
-    font-family: 'Mali',
-        cursive;
-    background: #e9b6b3;
+.pic2-grid {
+    justify-content: center;
     text-align: center;
-    width: 80px;
 }
 
-.muay {
-    margin-left: 13%;
+.pic2-grid img {
+    width: 500px;
 }
