@@ -1,55 +1,56 @@
 * {
-    background: #e9b6b3;
-    font-family: 'Mali', cursive;
+  background: #e9b6b3;
+  font-family: "Mali", cursive;
 }
 
 header {
-    font-family: 'Mali', cursive;
-    background: #e9b6b3;
-    text-align: center;
-    width: 400px;
-    margin: auto;
+  font-family: "Mali", cursive;
+  background: #e9b6b3;
+  text-align: center;
+  width: 400px;
+  margin: auto;
 }
 
 h1 {
-    margin-top: 10px;
-    font-size: 20px;
-    text-decoration: #b54352 wavy underline;
+  margin-top: 10px;
+  font-size: 20px;
+  text-decoration: #b54352 wavy underline;
 }
 
 .pic img {
-    object-fit: cover;
-    height: 150px;
-    width: 150px;
-    border-radius: 15px;
+  object-fit: cover;
+  height: 150px;
+  width: 150px;
+  border-radius: 15px;
 
-    margin-top: 10px;
+  margin-top: 10px;
 }
 
 .Mounth {
-    color: #d18264;
+  color: #d18264;
 }
 
 .Welcome {
-    margin-top: 1.5em;
-    font-size: 18px;
-    font-weight: bold;
-    margin-bottom: 19px;
+  margin-top: 1.5em;
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 19px;
 }
 
 .pic2-grid {
-    justify-content: center;
-    text-align: center;
+  justify-content: center;
+  text-align: center;
 }
 
 .pic2-grid img {
-    width: 400px;
-    margin-top: 25px;
-    margin-bottom: 50px;
+  width: 400px;
+  margin-top: 25px;
+  margin-bottom: 50px;
+  border-radius: 10px;
 }
 
 section {
-    width: 400px;
-    text-align: center;
-    margin: auto;
+  width: 400px;
+  text-align: center;
+  margin: auto;
 }
