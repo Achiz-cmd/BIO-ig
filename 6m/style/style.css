@@ -22,7 +22,6 @@ h1 {
   height: 150px;
   width: 150px;
   border-radius: 15px;
-
   margin-top: 10px;
 }
 
@@ -35,6 +34,9 @@ h1 {
   font-size: 18px;
   font-weight: bold;
   margin-bottom: 19px;
+  background-color: #d18264;
+  border-radius: 25px;
+  padding: 8px 6px;
 }
 
 .pic2-grid {
@@ -52,5 +54,19 @@ h1 {
 section {
   width: 400px;
   text-align: center;
+  margin: auto;
+}
+
+section img {
+  width: 400px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  border-radius: 15px;
+}
+
+footer {
+  justify-content: center;
+  text-align: center;
+  width: 200px;
   margin: auto;
 }
