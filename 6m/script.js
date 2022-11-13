@@ -1,0 +1,1 @@
+myAudio.loop = true;
